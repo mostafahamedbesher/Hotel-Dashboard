@@ -27,3 +27,6 @@ The Hotel Dashboard is a comprehensive management tool designed for hotel employ
 - User management functionality, including user creation and profile updates.
 - Dark mode feature for enhanced user experience.
 
+## Demo
+  https://hotel-dashboard-nu.vercel.app/
+
